@@ -1,0 +1,6 @@
+opencv-python
+onvif-zeep
+requests
+pillow
+pyyaml
+numpy<2.0 

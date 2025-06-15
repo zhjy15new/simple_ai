@@ -192,3 +192,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Output
+output/
+captured_image.jpg

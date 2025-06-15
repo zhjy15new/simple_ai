@@ -1,0 +1,14 @@
+{
+  "camera": {
+    "ip": "172.17.55.11",
+    "port": 554,
+    "rtsp_path": "stream_main",
+    "username": "admin",
+    "password": "123456",
+    "camera_id": "HX_V83_CV100"
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/app.log"
+  }
+} 
